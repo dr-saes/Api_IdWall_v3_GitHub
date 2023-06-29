@@ -1,0 +1,5 @@
+/Users/danielsaes/Documents/GitHub/id_wall/obj/Debug/net5.0/id_wall.csproj.AssemblyReference.cache
+/Users/danielsaes/Documents/GitHub/id_wall/obj/Debug/net5.0/id_wall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielsaes/Documents/GitHub/id_wall/obj/Debug/net5.0/id_wall.AssemblyInfoInputs.cache
+/Users/danielsaes/Documents/GitHub/id_wall/obj/Debug/net5.0/id_wall.AssemblyInfo.cs
+/Users/danielsaes/Documents/GitHub/id_wall/obj/Debug/net5.0/id_wall.csproj.CoreCompileInputs.cache
