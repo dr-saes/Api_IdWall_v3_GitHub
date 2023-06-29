@@ -1,2 +1,2 @@
 ﻿# Api_idWall_v3_GitHub
-## Itegrção com a Idwall para a veridicação da situação cadastral de um cpf.
+## Itegração com a Idwall para a veridicação da situação cadastral de um cpf.
